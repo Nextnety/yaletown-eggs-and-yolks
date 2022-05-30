@@ -136,6 +136,7 @@ nav a:focus {
     margin-right: 0.5em;
     display: block;
     border-radius: 0.35em;
+    box-shadow: 2px 2px 6px #888888;
 }
 
 .btn-primary {
