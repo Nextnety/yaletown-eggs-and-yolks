@@ -182,7 +182,7 @@ nav a:focus {
 }
 
 .about-us__intro {
-    background-image: url(/images/egg-basket.jpg);
+    background-image: url(egg-basket.jpg);
     background-color: rgb(146, 128, 160);
     background-blend-mode: multiply;
     padding: 3em 1em 1em;
