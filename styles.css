@@ -161,7 +161,7 @@ nav a:focus {
 
 .hero {
     background-color: rgb(153, 151, 151);
-    background-image: url(/images/grazing-hens.jpg);
+    background-image: url(grazing-hens.jpg);
     background-blend-mode: multiply;
     background-attachment: fixed;
     color: whitesmoke;
